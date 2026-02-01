@@ -38,9 +38,7 @@ I am currently interested in **AI Engineering**. I'm deep-diving into neural net
 ---
 
 ### 🏁 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/laslamazishvili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://greatestla.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aslamazishvililuka51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/laslamazishvili/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://greatestla.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aslamazishvililuka51@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 <h3 align="right"><i>"Focus. Speed. I am speed."</i></h3>
 
